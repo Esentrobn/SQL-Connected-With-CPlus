@@ -1,0 +1,29 @@
+
+> g++ sqlJoined.cpp  
+> a.out 
+
+Opening DFile.txt
+Commence in DFile.txt
+
+Size or Total Number in Dog file: 800001
+
+Data saving in sorted_DFile.txt
+
+Opening EFile.txt 
+Commence Sorted EFile.txt
+
+Size or Total Number in Examine file: 1200001
+
+Data saving in sorted_EFile.txt 
+
+ Joining Dogs and Examine 
+Size of the Joined Dogs and Examine list 1200001
+
+ Age                     Sum of Fee 
+8                       17847109
+9                       17809963
+10                      17812154
+11                      17916492
+
+ Time for completion: 12.21s
+> exit 
